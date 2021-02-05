@@ -20,7 +20,7 @@
 	    <li><a>Create Account</a></li>
 
 	    <li><div class="wrapper">
-				<div class="search_box"> <input type="_text_" placeholder="what are you looking for?">
+				<div class="search_box"> <input type="_text_" placeholder="what are you searching for?">
 				<div id="button-holder"> <img src="searchicon.png.png" /></div>
 			    </div>
 		    </div>
